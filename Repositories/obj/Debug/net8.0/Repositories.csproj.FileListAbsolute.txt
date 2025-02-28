@@ -1,0 +1,12 @@
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/bin/Debug/net8.0/Repositories.deps.json
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/bin/Debug/net8.0/Repositories.dll
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/bin/Debug/net8.0/Repositories.pdb
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.csproj.AssemblyReference.cache
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfoInputs.cache
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.dll
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/refint/Repositories.dll
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/Repositories.pdb
+/Users/jaychaudhary/Downloads/EduTrackPro/Repositories/obj/Debug/net8.0/ref/Repositories.dll
